@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Balloon
+  - Enemy
+  - Cow
+  - Grow
+  - Shrink
+  - Oxygen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - Main
+  - 
+  - 
+  - 
+  - 
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Woods
+    uniqueID: 2218235677
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cow
+    uniqueID: 1739372931
+    locked: 0
+  - name: Eye
+    uniqueID: 4189883219
+    locked: 0
+  - name: HUD
+    uniqueID: 682437983
+    locked: 0

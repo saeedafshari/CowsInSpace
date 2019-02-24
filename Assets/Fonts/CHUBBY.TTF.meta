@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 67962a3628a7a5242a8d9ec4f0fbef20
+timeCreated: 1518041386
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chubby Cheeks
+  fontNames:
+  - Chubby Cheeks
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

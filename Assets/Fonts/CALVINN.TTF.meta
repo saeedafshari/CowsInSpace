@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: dc75b7210993b7b4e9c06a69e9bf956e
+timeCreated: 1518041386
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 72
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Calvin and Hobbes
+  fontNames:
+  - Calvin and Hobbes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2f90d988962b8e2438471c7acc980373, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
